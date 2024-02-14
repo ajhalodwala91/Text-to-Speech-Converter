@@ -3,9 +3,13 @@
 The Text to Speech application is a user-friendly tool built with Tkinter for the graphical user interface, and pyttsx3 for the text-to-speech functionality. This app allows users to input text and convert it into spoken words with customizable voice and speed settings.
 
 ## Features
+
 Text to Speech Conversion
+
 Choice of Male or Female Voice
+
 Adjustable Speech Speed (Slow, Normal, Fast)
+
 Dark Mode for Enhanced Visibility
 
 ## Prerequisites
